@@ -1,0 +1,499 @@
+{
+  "n": 150,
+  "questions": [
+    "I frequently use social media to learn new information.",
+    "I follow educational accounts or content creators on social media.",
+    "I watch short educational videos on social media regularly.",
+    "I prefer short learning content over lengthy learning materials.",
+    "I use social media to improve my academic or professional knowledge.",
+    "Microlearning through social media helps me understand concepts quickly.",
+    "I can easily remember information learned through short educational content.",
+    "Learning through social media saves me time.",
+    "Microlearning makes learning more enjoyable.",
+    "Social media provides easy access to educational resources.",
+    "Educational content on social media increases my interest in learning.",
+    "I feel motivated to learn after watching educational content on social media.",
+    "Interactive features such as quizzes, polls, and comments improve my learning experience.",
+    "I share useful educational content with my friends or classmates.",
+    "I engage with educational posts by liking, commenting, or saving them.",
+    "Microlearning through social media improves my problem-solving skills.",
+    "I can apply the knowledge gained from social media in real-life situations.",
+    "Learning through social media increases my confidence in understanding new topics.",
+    "I prefer learning through videos rather than text-based content.",
+    "Social media helps me learn anytime and anywhere.",
+    "I often get distracted by non-educational content while learning on social media.",
+    "Short educational content sometimes lacks sufficient detail.",
+    "It is difficult to judge whether educational content on social media is accurate.",
+    "Too much information on social media makes learning confusing.",
+    "Overall, microlearning through social media is an effective way to learn."
+  ],
+  "per_item": [
+    {
+      "idx": 1,
+      "q": "I frequently use social media to learn new information.",
+      "mean": 3.82,
+      "sd": 1.06,
+      "dist": {
+        "Strongly Agree": 26.7,
+        "Agree": 45.3,
+        "Neutral": 16.0,
+        "Disagree": 7.3,
+        "Strongly Disagree": 4.7
+      },
+      "agree_pct": 72.0,
+      "n": 150
+    },
+    {
+      "idx": 2,
+      "q": "I follow educational accounts or content creators on social media.",
+      "mean": 3.96,
+      "sd": 0.95,
+      "dist": {
+        "Strongly Agree": 31.3,
+        "Agree": 42.7,
+        "Neutral": 18.7,
+        "Disagree": 5.3,
+        "Strongly Disagree": 2.0
+      },
+      "agree_pct": 74.0,
+      "n": 150
+    },
+    {
+      "idx": 3,
+      "q": "I watch short educational videos on social media regularly.",
+      "mean": 3.81,
+      "sd": 1.03,
+      "dist": {
+        "Strongly Agree": 26.7,
+        "Agree": 42.7,
+        "Neutral": 20.0,
+        "Disagree": 6.7,
+        "Strongly Disagree": 4.0
+      },
+      "agree_pct": 69.3,
+      "n": 150
+    },
+    {
+      "idx": 4,
+      "q": "I prefer short learning content over lengthy learning materials.",
+      "mean": 3.87,
+      "sd": 1.09,
+      "dist": {
+        "Strongly Agree": 34.7,
+        "Agree": 34.0,
+        "Neutral": 18.0,
+        "Disagree": 10.7,
+        "Strongly Disagree": 2.7
+      },
+      "agree_pct": 68.7,
+      "n": 150
+    },
+    {
+      "idx": 5,
+      "q": "I use social media to improve my academic or professional knowledge.",
+      "mean": 3.65,
+      "sd": 1.12,
+      "dist": {
+        "Strongly Agree": 22.0,
+        "Agree": 44.0,
+        "Neutral": 18.0,
+        "Disagree": 9.3,
+        "Strongly Disagree": 6.7
+      },
+      "agree_pct": 66.0,
+      "n": 150
+    },
+    {
+      "idx": 6,
+      "q": "Microlearning through social media helps me understand concepts quickly.",
+      "mean": 3.81,
+      "sd": 1.08,
+      "dist": {
+        "Strongly Agree": 27.3,
+        "Agree": 43.3,
+        "Neutral": 18.0,
+        "Disagree": 5.3,
+        "Strongly Disagree": 6.0
+      },
+      "agree_pct": 70.7,
+      "n": 150
+    },
+    {
+      "idx": 7,
+      "q": "I can easily remember information learned through short educational content.",
+      "mean": 3.75,
+      "sd": 1.02,
+      "dist": {
+        "Strongly Agree": 24.7,
+        "Agree": 40.7,
+        "Neutral": 22.0,
+        "Disagree": 10.0,
+        "Strongly Disagree": 2.7
+      },
+      "agree_pct": 65.3,
+      "n": 150
+    },
+    {
+      "idx": 8,
+      "q": "Learning through social media saves me time.",
+      "mean": 3.92,
+      "sd": 1.01,
+      "dist": {
+        "Strongly Agree": 31.3,
+        "Agree": 42.7,
+        "Neutral": 14.7,
+        "Disagree": 9.3,
+        "Strongly Disagree": 2.0
+      },
+      "agree_pct": 74.0,
+      "n": 150
+    },
+    {
+      "idx": 9,
+      "q": "Microlearning makes learning more enjoyable.",
+      "mean": 3.91,
+      "sd": 1.09,
+      "dist": {
+        "Strongly Agree": 35.3,
+        "Agree": 36.0,
+        "Neutral": 16.0,
+        "Disagree": 9.3,
+        "Strongly Disagree": 3.3
+      },
+      "agree_pct": 71.3,
+      "n": 150
+    },
+    {
+      "idx": 10,
+      "q": "Social media provides easy access to educational resources.",
+      "mean": 3.75,
+      "sd": 1.15,
+      "dist": {
+        "Strongly Agree": 29.3,
+        "Agree": 36.7,
+        "Neutral": 19.3,
+        "Disagree": 8.7,
+        "Strongly Disagree": 6.0
+      },
+      "agree_pct": 66.0,
+      "n": 150
+    },
+    {
+      "idx": 11,
+      "q": "Educational content on social media increases my interest in learning.",
+      "mean": 3.63,
+      "sd": 1.15,
+      "dist": {
+        "Strongly Agree": 22.7,
+        "Agree": 42.0,
+        "Neutral": 18.7,
+        "Disagree": 9.3,
+        "Strongly Disagree": 7.3
+      },
+      "agree_pct": 64.7,
+      "n": 150
+    },
+    {
+      "idx": 12,
+      "q": "I feel motivated to learn after watching educational content on social media.",
+      "mean": 3.81,
+      "sd": 1.02,
+      "dist": {
+        "Strongly Agree": 26.0,
+        "Agree": 44.7,
+        "Neutral": 16.7,
+        "Disagree": 10.0,
+        "Strongly Disagree": 2.7
+      },
+      "agree_pct": 70.7,
+      "n": 150
+    },
+    {
+      "idx": 13,
+      "q": "Interactive features such as quizzes, polls, and comments improve my learning experience.",
+      "mean": 3.87,
+      "sd": 1.16,
+      "dist": {
+        "Strongly Agree": 35.3,
+        "Agree": 36.0,
+        "Neutral": 14.7,
+        "Disagree": 8.0,
+        "Strongly Disagree": 6.0
+      },
+      "agree_pct": 71.3,
+      "n": 150
+    },
+    {
+      "idx": 14,
+      "q": "I share useful educational content with my friends or classmates.",
+      "mean": 4.05,
+      "sd": 0.89,
+      "dist": {
+        "Strongly Agree": 32.7,
+        "Agree": 47.3,
+        "Neutral": 13.3,
+        "Disagree": 5.3,
+        "Strongly Disagree": 1.3
+      },
+      "agree_pct": 80.0,
+      "n": 150
+    },
+    {
+      "idx": 15,
+      "q": "I engage with educational posts by liking, commenting, or saving them.",
+      "mean": 3.88,
+      "sd": 1.03,
+      "dist": {
+        "Strongly Agree": 31.3,
+        "Agree": 38.0,
+        "Neutral": 21.3,
+        "Disagree": 6.0,
+        "Strongly Disagree": 3.3
+      },
+      "agree_pct": 69.3,
+      "n": 150
+    },
+    {
+      "idx": 16,
+      "q": "Microlearning through social media improves my problem-solving skills.",
+      "mean": 3.81,
+      "sd": 1.09,
+      "dist": {
+        "Strongly Agree": 29.3,
+        "Agree": 40.0,
+        "Neutral": 18.0,
+        "Disagree": 8.0,
+        "Strongly Disagree": 4.7
+      },
+      "agree_pct": 69.3,
+      "n": 150
+    },
+    {
+      "idx": 17,
+      "q": "I can apply the knowledge gained from social media in real-life situations.",
+      "mean": 3.73,
+      "sd": 1.02,
+      "dist": {
+        "Strongly Agree": 22.0,
+        "Agree": 46.0,
+        "Neutral": 17.3,
+        "Disagree": 12.0,
+        "Strongly Disagree": 2.7
+      },
+      "agree_pct": 68.0,
+      "n": 150
+    },
+    {
+      "idx": 18,
+      "q": "Learning through social media increases my confidence in understanding new topics.",
+      "mean": 3.84,
+      "sd": 1.1,
+      "dist": {
+        "Strongly Agree": 32.0,
+        "Agree": 37.3,
+        "Neutral": 17.3,
+        "Disagree": 9.3,
+        "Strongly Disagree": 4.0
+      },
+      "agree_pct": 69.3,
+      "n": 150
+    },
+    {
+      "idx": 19,
+      "q": "I prefer learning through videos rather than text-based content.",
+      "mean": 3.9,
+      "sd": 0.99,
+      "dist": {
+        "Strongly Agree": 26.7,
+        "Agree": 50.0,
+        "Neutral": 14.0,
+        "Disagree": 5.3,
+        "Strongly Disagree": 4.0
+      },
+      "agree_pct": 76.7,
+      "n": 150
+    },
+    {
+      "idx": 20,
+      "q": "Social media helps me learn anytime and anywhere.",
+      "mean": 3.75,
+      "sd": 1.08,
+      "dist": {
+        "Strongly Agree": 27.3,
+        "Agree": 37.3,
+        "Neutral": 23.3,
+        "Disagree": 7.3,
+        "Strongly Disagree": 4.7
+      },
+      "agree_pct": 64.7,
+      "n": 150
+    },
+    {
+      "idx": 21,
+      "q": "I often get distracted by non-educational content while learning on social media.",
+      "mean": 2.21,
+      "sd": 1.21,
+      "dist": {
+        "Strongly Agree": 7.3,
+        "Agree": 7.3,
+        "Neutral": 19.3,
+        "Disagree": 31.3,
+        "Strongly Disagree": 34.7
+      },
+      "agree_pct": 14.7,
+      "n": 150
+    },
+    {
+      "idx": 22,
+      "q": "Short educational content sometimes lacks sufficient detail.",
+      "mean": 2.3,
+      "sd": 1.22,
+      "dist": {
+        "Strongly Agree": 7.3,
+        "Agree": 11.3,
+        "Neutral": 16.0,
+        "Disagree": 34.7,
+        "Strongly Disagree": 30.7
+      },
+      "agree_pct": 18.7,
+      "n": 150
+    },
+    {
+      "idx": 23,
+      "q": "It is difficult to judge whether educational content on social media is accurate.",
+      "mean": 2.34,
+      "sd": 1.21,
+      "dist": {
+        "Strongly Agree": 7.3,
+        "Agree": 11.3,
+        "Neutral": 17.3,
+        "Disagree": 36.0,
+        "Strongly Disagree": 28.0
+      },
+      "agree_pct": 18.7,
+      "n": 150
+    },
+    {
+      "idx": 24,
+      "q": "Too much information on social media makes learning confusing.",
+      "mean": 2.4,
+      "sd": 1.29,
+      "dist": {
+        "Strongly Agree": 9.3,
+        "Agree": 12.0,
+        "Neutral": 18.7,
+        "Disagree": 29.3,
+        "Strongly Disagree": 30.7
+      },
+      "agree_pct": 21.3,
+      "n": 150
+    },
+    {
+      "idx": 25,
+      "q": "Overall, microlearning through social media is an effective way to learn.",
+      "mean": 3.83,
+      "sd": 1.12,
+      "dist": {
+        "Strongly Agree": 33.3,
+        "Agree": 34.7,
+        "Neutral": 18.0,
+        "Disagree": 10.0,
+        "Strongly Disagree": 4.0
+      },
+      "agree_pct": 68.0,
+      "n": 150
+    }
+  ],
+  "dims": {
+    "Usage & Adoption Behaviour": {
+      "n_items": 5,
+      "mean": 3.82,
+      "sd": 0.45,
+      "alpha": -0.101
+    },
+    "Perceived Effectiveness & Benefits": {
+      "n_items": 7,
+      "mean": 3.8,
+      "sd": 0.42,
+      "alpha": 0.072
+    },
+    "Engagement & Application": {
+      "n_items": 8,
+      "mean": 3.85,
+      "sd": 0.38,
+      "alpha": 0.054
+    },
+    "Challenges & Limitations": {
+      "n_items": 4,
+      "mean": 2.31,
+      "sd": 0.66,
+      "alpha": 0.185
+    }
+  },
+  "dim_qs": {
+    "Usage & Adoption Behaviour": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "Perceived Effectiveness & Benefits": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "Engagement & Application": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "Challenges & Limitations": [
+      21,
+      22,
+      23,
+      24
+    ]
+  },
+  "overall_mean": 3.83,
+  "ttest": {
+    "freq_n": 108,
+    "freq_mean": 3.78,
+    "freq_sd": 0.44,
+    "infreq_n": 42,
+    "infreq_mean": 3.837,
+    "infreq_sd": 0.363,
+    "t": -0.801,
+    "p": 0.425
+  },
+  "anova": {
+    "low_n": 61,
+    "low_mean": 3.763,
+    "low_sd": 0.44,
+    "mid_n": 48,
+    "mid_mean": 3.848,
+    "mid_sd": 0.429,
+    "high_n": 41,
+    "high_mean": 3.784,
+    "high_sd": 0.379,
+    "F": 0.568,
+    "p": 0.568
+  },
+  "corr_eng_eff": {
+    "r": 0.016,
+    "p": 0.849
+  },
+  "corr_usage_eff": {
+    "r": 0.039,
+    "p": 0.635
+  }
+}
